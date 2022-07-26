@@ -87,7 +87,7 @@ function BebidaSinAlcohol () {
     BebidaSinAlcohol ();    
 }
 
-//Consultar precios Xbox 
+//Consultar precios bebida acoholicas
 
 
 function BebidaAlcoholica () {
